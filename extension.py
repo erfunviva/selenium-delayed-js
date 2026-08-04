@@ -1,6 +1,5 @@
 import zipfile
 
-
 def proxies(username, password, endpoint, port):
     manifest_json = """
     {
